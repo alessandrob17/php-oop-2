@@ -1,12 +1,7 @@
 <?php
 
-class Gatto {
-    public $croccantini;
-    public $umido;
-    public $cucche;
-    public $giochi;
+include_once __DIR__ . '/prodotto.php'
+include_once __DIR__ . '/cibo.php'
 
-
-}
 
 ?>
